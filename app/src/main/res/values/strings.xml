@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Search Customer</string>
+    <string name="code">Company Code :</string>
+    <string name="status">Status :</string>
+    <string name="email_customer">Email Customer :</string>
+    <string name="title_search">Search Company</string>
+
+</resources>
